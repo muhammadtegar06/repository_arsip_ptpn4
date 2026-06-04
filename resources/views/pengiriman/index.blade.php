@@ -13,7 +13,7 @@
 <div class="page-header">
     <div>
         <h2 class="page-title">Monitoring Pengiriman</h2>
-        <p class="page-subtitle">Kelola status pengiriman box arsip fisik ke Gudang Arsip PTPN4</p>
+        <p class="page-subtitle">Kelola status pengiriman box arsip fisik ke Repository Arsip PTPN4</p>
     </div>
 </div>
 

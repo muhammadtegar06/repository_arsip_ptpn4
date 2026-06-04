@@ -22,7 +22,7 @@
             </svg>
         </div>
         <div class="sidebar-logo-text">
-            <div class="sidebar-logo-title">Gudang Arsip</div>
+            <div class="sidebar-logo-title">Repository Arsip</div>
             <div class="sidebar-logo-sub">PTPN4 &mdash; Repository</div>
         </div>
     </div>

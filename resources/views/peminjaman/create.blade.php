@@ -15,7 +15,7 @@
 <div class="page-header">
     <div>
         <h2 class="page-title">Formulir Peminjaman Box Arsip</h2>
-        <p class="page-subtitle">Pilih box yang ingin dipinjam dari Gudang Arsip</p>
+        <p class="page-subtitle">Pilih box yang ingin dipinjam dari Repository Arsip</p>
     </div>
     <a href="{{ route('peminjaman.index') }}" class="btn btn-outline">
         Kembali
@@ -41,7 +41,7 @@
 
             <div class="form-group">
                 <label class="form-label">Pilih Box yang Dipinjam <span style="color: #dc2626;">*</span></label>
-                <p style="font-size: 0.75rem; color: #64748b; margin-bottom: 0.5rem;">Hanya menampilkan box divisi Anda yang sudah berada di Gudang Arsip (Status: Terkirim) dan tidak sedang dipinjam.</p>
+                <p style="font-size: 0.75rem; color: #64748b; margin-bottom: 0.5rem;">Hanya menampilkan box divisi Anda yang sudah berada di Repository Arsip (Status: Terkirim) dan tidak sedang dipinjam.</p>
                 
                 @if($availableBoxes->count() > 0)
                 <div style="max-height: 250px; overflow-y: auto; border: 1.5px solid #e2e8f0; border-radius: 8px; padding: 0.5rem;">
@@ -58,7 +58,7 @@
                 @error('boxes') <div class="form-error">{{ $message }}</div> @enderror
                 @else
                 <div class="alert alert-warning" style="margin-bottom: 0;">
-                    Tidak ada box yang tersedia untuk dipinjam saat ini. Pastikan Anda memiliki box yang sudah disetujui dan terkirim ke Gudang Arsip.
+                    Tidak ada box yang tersedia untuk dipinjam saat ini. Pastikan Anda memiliki box yang sudah disetujui dan terkirim ke Repository Arsip.
                 </div>
                 @endif
             </div>

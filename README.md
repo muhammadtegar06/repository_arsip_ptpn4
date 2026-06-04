@@ -1,6 +1,6 @@
-# Sistem Informasi Gudang Arsip - PTPN4
+# Sistem Informasi Repository Arsip - PTPN4
 
-Aplikasi ini adalah Sistem Informasi Gudang Arsip untuk PTPN4 yang dibangun menggunakan Laravel 12. Sistem ini digunakan untuk memfasilitasi pengajuan, pengisian data box arsip, persetujuan (approval), hingga manajemen pengiriman arsip box ke Gudang Arsip terpusat.
+Aplikasi ini adalah Sistem Informasi Repository Arsip untuk PTPN4 yang dibangun menggunakan Laravel 12. Sistem ini digunakan untuk memfasilitasi pengajuan, pengisian data box arsip, persetujuan (approval), hingga manajemen pengiriman arsip box ke Repository Arsip terpusat.
 
 ## 🚀 Panduan Instalasi (Untuk Cloning)
 

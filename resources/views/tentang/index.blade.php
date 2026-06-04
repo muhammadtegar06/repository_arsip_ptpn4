@@ -26,7 +26,7 @@
     <div class="card" style="text-align: left; margin-bottom: 1.5rem;">
         <div class="card-body">
             <p style="color: #475569; line-height: 1.6; font-size: 0.95rem; margin-bottom: 1rem;">
-                Aplikasi Sistem Arsip Digital PTPN4 dirancang khusus untuk mendata, memonitoring, dan memanajemen perpindahan data box arsip dari masing-masing divisi (Unit Kerja) yang akan dikirimkan dan disimpan pada Gudang Arsip pusat.
+                Aplikasi Sistem Arsip Digital PTPN4 dirancang khusus untuk mendata, memonitoring, dan memanajemen perpindahan data box arsip dari masing-masing divisi (Unit Kerja) yang akan dikirimkan dan disimpan pada Repository Arsip pusat.
             </p>
             <p style="color: #475569; line-height: 1.6; font-size: 0.95rem;">
                 Dibangun dengan antarmuka yang modern, sistem ini memberikan kemudahan tracking pengiriman, struktur penyimpanan box-bantex-dokumen yang jelas, dan fitur pelaporan terpusat.

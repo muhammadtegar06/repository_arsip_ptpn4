@@ -159,7 +159,7 @@
                     <line x1="10" y1="14" x2="14" y2="14"/>
                 </svg>
             </div>
-            <h1 style="color: white; font-size: 1.5rem; font-weight: 800; margin: 0 0 0.25rem;">Gudang Arsip</h1>
+            <h1 style="color: white; font-size: 1.5rem; font-weight: 800; margin: 0 0 0.25rem;">Repository Arsip</h1>
             <p style="color: rgba(255,255,255,0.6); font-size: 0.85rem; margin: 0;">Masuk untuk melanjutkan</p>
         </div>
 
