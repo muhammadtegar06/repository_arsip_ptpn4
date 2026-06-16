@@ -17,7 +17,7 @@ Pastikan laptop/komputer Anda sudah terinstal:
 ### 2. Clone Repositori
 Buka terminal (Command Prompt/PowerShell/Git Bash) di folder tempat Anda ingin menyimpan proyek (misalnya `C:\laragon\www`), lalu jalankan:
 ```bash
-git clone https://github.com/crophx/arsip_ptpn4.git
+git clone https://github.com/muhammadtegar06/repository_arsip_ptpn4.git
 cd arsip_ptpn4
 ```
 
@@ -40,7 +40,7 @@ Buka file `.env` di teks editor (VS Code dll), lalu sesuaikan koneksi database A
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=arsip_ptpn4    # (Pastikan database ini sudah dibuat di MySQL/phpMyAdmin)
+DB_DATABASE=db_arsip_ptpn4    # (Pastikan database ini sudah dibuat di MySQL/phpMyAdmin)
 DB_USERNAME=root           # Sesuaikan dengan username MySQL Anda
 DB_PASSWORD=               # Sesuaikan dengan password MySQL Anda (kosongkan jika default)
 ```
